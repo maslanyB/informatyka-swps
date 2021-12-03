@@ -10,6 +10,9 @@ Ulubiony zespół muzyczny: 88glam
 
 imię psa: fado
 
+print("sadasda")
+
+
 
 
 
